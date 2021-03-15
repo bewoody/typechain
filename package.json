@@ -1,0 +1,20 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "Learning Typescript by making a Blockchain with it",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redongsunism/typechain.git"
+  },
+  "author": "Woody <eastline@maycan.co.kr>",
+  "license": "ISC",
+  "dependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "npx tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
